@@ -57,7 +57,7 @@ Microsoft sees all the big companies creating original video content and they wa
 # Recommendations
 <hr>
 
-1. Microsoft should patner with movie studios such as Buena Vista, Universal Studios and Fox Studios. By patnering with them , they will be able to gain more traction for their movies.
+1. Microsoft should partner with movie studios such as Buena Vista, Universal Studios and Fox Studios. By partnering with them , they will be able to gain more traction for their movies.
 
 2. Microsoft should focus on creating movies that are mostly in the Adventure genre, but they can venture into action ,comedy as well, so as to generate maximum return on investments.
 
