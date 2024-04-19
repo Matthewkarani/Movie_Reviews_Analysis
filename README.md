@@ -43,14 +43,17 @@ Microsoft sees all the big companies creating original video content and they wa
 
 1. This Visualization shows the best performing studion in terms
     of return on investments. 
+
 ![Best Performing ROI Studios](Top 10 Best Performing Studio ROI.png)
 
 2. This Visualization shows the movie genres that bring in the 
-   highest return on investment
+   highest return on investment.
+
 ![Best Performing Genres](Top 10 Genres by Cumulative ROI.png)
 
 3. This Visualization shows the Release Months that perform extremely well in terms of ganering the highest return on
    investment.
+
 ![Best Release Months](Highest ROI by Release Month.png)
 
 
